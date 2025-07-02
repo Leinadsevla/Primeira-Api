@@ -187,9 +187,6 @@ A API retorna códigos de status HTTP apropriados:
 - **404**: Recurso não encontrado
 - **500**: Erro interno do servidor
 
-##  Licença
-
-Este projeto está sob a licença ISC.
 
 ##  Autor
 
